@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "AF99KPBK4G.com.vestel.SmartHome",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
